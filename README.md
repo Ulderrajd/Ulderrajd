@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Ulderrajd/Ulderrajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Billy (Nguyễn Minh Quân)**, a data analyst based in Ho Chi Minh City, Vietnam.
 
-Here are some ideas to get you started:
+I turn messy data into dashboards, KPIs, and decisions that actually get used.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a business question comes up, chances are I can pull the numbers, clean them, and turn them into a chart that makes sense.
+
+My main toolkit is **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**. I also spend a lot of time in Excel building models and trackers.
+.
+
+If you want to see how I got here, check out my [resume / portfolio](#) — link coming soon!
+
+- Recent grad in International Business Economics from Foreign Trade University
+- IELTS 8.0
+- Deep into Vietnamese equity analysis on the side
+- **Hobbies:** stock analysis, JRPGs, building dashboards for fun
