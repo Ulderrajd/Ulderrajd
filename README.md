@@ -9,7 +9,6 @@ If a business question comes up, chances are I can pull the numbers, clean them,
 My main toolkit is **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**. I also spend a lot of time in Excel building models and trackers.
 .
 
-If you want to see how I got here, check out my [resume / portfolio](#) — link coming soon!
 
 - Recent grad in International Business Economics from Foreign Trade University
 - IELTS 8.0
