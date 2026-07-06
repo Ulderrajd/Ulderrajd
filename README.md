@@ -12,5 +12,4 @@ My main toolkit is **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**
 
 - Recent grad in International Business Economics from Foreign Trade University
 - IELTS 8.0
-- Deep into Vietnamese equity analysis on the side
 - **Hobbies:** stock analysis, JRPGs, building dashboards for fun
