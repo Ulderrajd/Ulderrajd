@@ -7,7 +7,6 @@ I'm **Billy (Nguyễn Minh Quân)**, a data analyst based in Ho Chi Minh City, V
 + Developing dashboards on Power BI and Tableau.
 + Data analysis and reporting using Google Sheets and Excel.
 
-.
 🛠️ Tools:
 + Programming & Querying: SQL, Python
 + Data Analysis & Visualization: Power BI, Tableau
